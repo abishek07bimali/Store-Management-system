@@ -1,11 +1,3 @@
-# stw4008cem-cw-31a-aces
-stw4008cem-cw-31a-aces created by GitHub Classroom
-
-## Group Aces Members
-- Abishek Bimali
-- Shrijan Pokharel
-- Bikesh Chaudary
-- Shekh MD Atiur Rahaman
 
 ### STORE MANAGEMENT SYSTEM🏬
 The Project Management System Software is developed using Tkinter , Python & SQLite3 in order to decrease human efficiency with easy to use feature.
